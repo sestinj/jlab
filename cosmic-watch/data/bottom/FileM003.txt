@@ -1,0 +1,7 @@
+###################################################################################################
+### CosmicWatch: The Desktop Muon Detector
+### Device ID: NiktaFahkri
+### Launch time: 16:52:29 13/2/2023
+### Questions? Email Spencer N. Axani (saxani@mit.edu)
+### Event Time Date TimeStamp[ms] ADC1 ADC2 SiPM[mV] Temp[C] Pressure[Pa] DeadTime[us] Coincident ID
+###################################################################################################
